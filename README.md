@@ -1,7 +1,18 @@
 
 Pinkcoin development tree
 
-Pinkcoin is a PoS-based cryptocurrency.
+Specifications
+===========================
+
+POW/POS, Scrypt mining algorithm
+POW: 2 Minutes, Reward 50 coins
+POS: 6 Minutes, Reward 100 coins
+FlashPOS: 1 Minute, Reward 150 coins.
+Average block time POW/POS: 1 1/2 Minutes
+Average block time FlashPOS/POW: 40 seconds.
+Rewards halve every 2 years
+Ultimate cap is 500,000,000 coins
+
 
 Development process
 ===========================
@@ -11,7 +22,7 @@ they think their feature or bug fix is ready.
 
 The patch will be accepted if there is broad consensus that it is a
 good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
+if they do not match the project's coding conventions (see coding.txt)
 or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
