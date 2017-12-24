@@ -1,3 +1,24 @@
+ARCHIVED REPOSITORY - Do not use for building Pinkcoin.
+===========================
+
+This repository has been archived. The project has moved to:
+
+http://www.github.com/Pink2Dev/Pink2
+
+
+Please use that repository from now on.
+
+
+
+
+
+
+
+===========================
+
+
+
+
 
 Pinkcoin development tree
 
